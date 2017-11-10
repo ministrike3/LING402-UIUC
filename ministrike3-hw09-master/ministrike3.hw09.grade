@@ -1,0 +1,27 @@
+__ministrike3__LING402-HW09-GRADE-RUBRIC__
+
+d.py functions correctly:	11.7/12.2
+	loads nltk.udhr:	2/2
+	iterates fileids:	2/2
+	counts fileids:	2/2
+	formatted string:	2/2
+	leading zeroes:	1.9/2.2
+	output matches expected:	1.8/2
+c.py functions correctly:	2.6/2.6
+	counts words:	1/1
+	counts unique words:	1/1
+	output matches expected:	0.6/0.6
+b.py functions correctly:	2.6/2.6
+	loads nltk gutenberg:	1/1
+	computes averages:	1/1
+	output matches expected:	0.6/0.6
+a.py functions correctly:	2.6/2.6
+	creates translation dictionary:	1/1
+	checks word in dictionary:	1/1
+	output matches expected:	0.6/0.6
+
+TOTAL:	19.5/20
+
+__TA-COMMENTS-IF-ANY__
+
+d.py	{:0<3} will produce trailing zeroes (< means to align output towards the left) rather than leading zeroes

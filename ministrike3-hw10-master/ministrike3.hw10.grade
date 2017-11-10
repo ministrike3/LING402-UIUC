@@ -1,0 +1,31 @@
+__ministrike3__LING402-HW10-GRADE-RUBRIC__
+
+d.py functions correctly:	12.2/12.2
+	checks num of arguments:	4/4
+	correct error message:	2/2
+	English French switched:	2/2
+	tab separated sentences:	2/2
+	output matches expected:	2.2/2.2
+c.py functions correctly:	2.6/2.6
+	uses word_tokenize:	1/1
+	correct calculations:	1/1
+	output matches expected:	0.6/0.6
+b.py functions correctly:	2.6/2.6
+	uses word_tokenize:	1/1
+	counts unique tokens:	1/1
+	output matches expected:	0.6/0.6
+a.py functions correctly:	2.6/2.6
+	defines function pg():	1/1
+	function works correctly:	1/1
+	output matches expected:	0.6/0.6
+
+TOTAL:	20/20
+
+__TA-COMMENTS-IF-ANY__
+
+Pig-Latin function is tested with the following criteria:
+	If a string is one character long, do not transform.
+	If a string does not contain only alphabetic characters, do not transform.
+	If word has no vowel ({a,e,i,o,u,y}, any case, word-initial y is not a vowel), transform to xxxx-ay (where xxxx is original word).
+	If word begins with vowel ({a,e,i,o,u}, any case), transform to xxxx-ay (where xxxx is original word).
+	Otherwise, transform to vxxx-zzzay, where v is first vowel ({a,e,i,o,u,y}, any case), zzzz is cluster before first vowel.

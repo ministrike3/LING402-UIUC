@@ -1,0 +1,20 @@
+__ministrike3__LING402-hw04-GRADE-RUBRIC__
+
+compile_corpus_vocabulary.sh functions correctly	0.85/1
+delete_extra_spaces.sh functions correctly	1/1
+lowercase_to_uppercase.sh functions correctly	1/1
+misspelled_words.sh functions correctly	1/1
+remove_carriage_returns.sh functions correctly	1/1
+replace_extra_whitespace.sh functions correctly	0.85/1
+show_all-number_lines.sh functions correctly	1/1
+suppress_repeated_empty_lines.sh functions correctly	1/1
+upper_case_bin.sh functions correctly	1/1
+vowel_user_list.sh functions correctly	0.9/1
+
+TOTAL:	9.6/10
+
+__TA-COMMENTS-IF-ANY__
+
+compile_corpus_vocabulary.sh	Your solution does not treat tabs in the input as word boundaries
+replace_extra_whitespace.sh	Your solution will replace every one whitespace character with one newline character. The expected behavior is to replace every sequence of consecutive whitespace characters with one newline character
+vowel_user_list.sh	output needs to be alphabetically sorted

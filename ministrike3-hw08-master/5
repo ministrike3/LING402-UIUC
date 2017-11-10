@@ -1,0 +1,1151 @@
+1.0	``	``
+1.0	--	:
+1.0	,	,
+1.0	;	:
+1.0	.	.
+1.0	''	''
+1.0	$	$
+1.0	0	-NONE-
+1.0	*-10	-NONE-
+1.0	*-11	-NONE-
+1.0	*-12	-NONE-
+1.0	1.5	CD
+1.0	160	CD
+1.0	18	CD
+1.0	1950s	CD
+1.0	1953	CD
+1.0	1955	CD
+1.0	1956	CD
+1.0	1997	CD
+1.0	*-1	-NONE-
+1.0	20	CD
+1.0	212	CD
+1.0	2,700	CD
+1.0	27	CD
+1.0	2.80	CD
+1.0	2.87	CD
+1.0	28	CD
+1.0	295	CD
+1.0	29	CD
+1.0	*-2	-NONE-
+1.0	30	CD
+1.0	30-day	JJ
+1.0	3.1	CD
+1.0	33	CD
+1.0	352.7	CD
+1.0	35	CD
+1.0	370	CD
+1.0	*-3	-NONE-
+1.0	400	CD
+1.0	41	CD
+1.0	43	CD
+1.0	*-4	-NONE-
+1.0	55	CD
+1.0	*-5	-NONE-
+1.0	61	CD
+1.0	*-6	-NONE-
+1.0	7.90	CD
+1.0	*-7	-NONE-
+1.0	8.04	CD
+1.0	8.12	CD
+1.0	8.14	CD
+1.0	8.19	CD
+1.0	8.22	CD
+1.0	83.4	CD
+1.0	8.45	CD
+1.0	8.47	CD
+1.0	8.53	CD
+1.0	8.56	CD
+1.0	*-8	-NONE-
+1.0	9.37	CD
+1.0	9.45	CD
+1.0	9.8	CD
+1.0	9	CD
+1.0	*-9	-NONE-
+1.0	about	IN
+1.0	About	IN
+1.0	according	VBG
+1.0	acetate	NN
+1.0	acquisition	NN
+1.0	acts	VBZ
+1.0	act	VB
+1.0	ADJP CC NP	UCP
+1.0	ADJP NN	NP
+1.0	ADJP NNP NNP	NP
+1.0	ADJP NNS	NP
+1.0	ADJP SBAR	ADJP-PRD
+1.0	ADJP VBG NNS	NP
+1.0	a	DT
+1.0	A	DT
+1.0	ADVP DT NNP NNP NN NN	NP
+1.0	ADVP-MNR VBD NP PP-LOC	VP
+1.0	ADVP-MNR VBN NP PP	VP
+1.0	ADVP , NP-SBJ VP .	S
+1.0	ADVP PP	ADVP-MNR
+1.0	ADVP PRN NP-SBJ `` VP .	S-1
+1.0	ADVP SBAR	ADVP-TMP
+1.0	ADVP-TMP , NP-SBJ VP .	S
+1.0	ADVP-TMP VP	RRC
+1.0	ADVP TO NP	PP
+1.0	after	IN
+1.0	again	RB
+1.0	Agency	NNP
+1.0	Agnew	NNP
+1.0	ago	IN
+1.0	all	DT
+1.0	almost	RB
+1.0	Although	IN
+1.0	amid	IN
+1.0	among	IN
+1.0	Among	IN
+1.0	amounts	NNS
+1.0	amphobiles	NNS
+1.0	and	CC
+1.0	an	DT
+1.0	A.	NNP
+1.0	annual	JJ
+1.0	any	DT
+1.0	anyone	NN
+1.0	appears	VBZ
+1.0	appear	VBP
+1.0	approval	NN
+1.0	approved	VBD
+1.0	area	NN
+1.0	Areas	NNS
+1.0	are	VBP
+1.0	argue	VBP
+1.0	arm	NN
+1.0	asbestosis	NN
+1.0	asbestos	NN
+1.0	asbestos-related	JJ
+1.0	as	IN
+1.0	Assets	NNS
+1.0	assume	VBP
+1.0	at	IN
+1.0	attention	NN
+1.0	auction	NN
+1.0	August	NNP
+1.0	authority	NN
+1.0	auto	NN
+1.0	average	JJ
+1.0	Average	JJ
+1.0	aware	JJ
+1.0	Babcock	NNP
+1.0	Bailey	NNP
+1.0	ban	NN
+1.0	based	VBN
+1.0	bearing	NN
+1.0	beat	VBP
+1.0	because	IN
+1.0	been	VBN
+1.0	before	IN
+1.0	be	VB
+1.0	billion	CD
+1.0	bills	NNS
+1.0	bin	NN
+0.5	blip	VB
+0.5	blip	VBP
+1.0	blue	JJ
+1.0	board	NN
+1.0	body	NN
+1.0	Bolduc	NNP
+1.0	bonds	NNS
+1.0	boosts	VBZ
+1.0	borrowing	NN
+1.0	Boston	NNP
+1.0	Brenda	NNP
+1.0	brief	JJ
+1.0	bring	VB
+1.0	British	JJ
+1.0	Brooke	NNP
+1.0	buildings	NNS
+1.0	burlap	NN
+1.0	but	CC
+1.0	But	CC
+1.0	by	IN
+1.0	By	IN
+1.0	cancer-causing	JJ
+1.0	cancer	NN
+1.0	Cancer	NNP
+1.0	can	MD
+1.0	capital-gains	JJ
+1.0	capture	VB
+1.0	cash	NN
+1.0	caused	VBN
+1.0	causing	VBG
+1.0	&	CC
+1.0	`` CC NP-SBJ-1 VP .	S
+1.0	$ CD CD	QP
+1.0	CD CD	QP
+0.09090909090909091	CD NN	ADJP
+0.8181818181818182	CD NN	NP
+0.09090909090909091	CD NN	NP-PRD
+1.0	CD NNS	NP
+1.0	$ CD -NONE-	NP
+1.0	CD	NP
+1.0	ceiling	NN
+1.0	chairman	NN
+1.0	Chrysler	NNP
+1.0	chrysotile	NN
+1.0	cigarette	NN
+1.0	cigarettes	NNS
+1.0	Clark	NNP
+1.0	classified	VBN
+1.0	class	NN
+1.0	closely	RB
+1.0	clouds	NNS
+1.0	College	NNP
+1.0	common	JJ
+1.0	company	NN
+1.0	comparable	JJ
+1.0	completed	VBD
+1.0	complete	VB
+1.0	compound	NN
+1.0	Compound	NN
+1.0	computerized	JJ
+1.0	conglomerate	NN
+1.0	Congress	NNP
+1.0	Co.	NNP
+1.0	considered	VBN
+1.0	Consolidated	NNP
+1.0	continued	VBD
+1.0	continues	VBZ
+1.0	continue	VBP
+1.0	contracted	VBD
+1.0	contract	NN
+1.0	Controls	NNP
+1.0	controls	NNS
+1.0	Corp.	NNP
+1.0	Corp	NNP
+1.0	cotton	NN
+1.0	countries	NNS
+1.0	crocidolite	NN
+1.0	curly	JJ
+1.0	current	JJ
+1.0	currently	RB
+1.0	cutting	VBG
+1.0	Dana-Farber	NNP
+1.0	Daniels	NNP
+1.0	Darrell	NNP
+1.0	day	NN
+1.0	days	NNS
+1.0	deaths	NNS
+1.0	debt	NN
+1.0	decades	NNS
+1.0	declines	NNS
+1.0	declining	VBG
+1.0	default	VB
+1.0	described	VBD
+1.0	Despite	IN
+1.0	diagnosed	VBN
+1.0	died	VBN
+1.0	different	JJ
+1.0	director	NN
+1.0	diseases	NNS
+1.0	dividends	NNS
+1.0	division	NN
+1.0	D.	NNP
+1.0	does	VBZ
+1.0	dollar-denominated	JJ
+1.0	Dollar	NNP
+1.0	Donoghue	NNP
+0.6666666666666666	down	RB
+0.3333333333333333	down	RP
+1.0	Dreyfus	NNP
+1.0	Dr.	NNP
+1.0	dropped	VBD
+1.0	dry	JJ
+1.0	DT ADJP NN	NP
+1.0	DT CD JJ NNS	NP
+1.0	DT CD NNS	NP
+1.0	DT CD	NP
+1.0	DT CD VBG NNS	NP
+1.0	DT JJ CD NN	NP
+1.0	DT JJ CD	NP
+1.0	DT JJ JJ JJ NN	NP
+1.0	DT JJ JJ NN NN	NP
+0.5	DT JJ JJ NN	NP
+0.5	DT JJ JJ NN	NP-SBJ
+1.0	DT JJ , JJ NNS	NP
+1.0	DT JJ JJ VBG NN	NP
+0.6666666666666666	DT JJ NN NN	NP
+0.3333333333333333	DT JJ NN NN	NP-SBJ
+1.0	DT JJ NN NNS	NP-SBJ
+0.7647058823529411	DT JJ NN	NP
+0.11764705882352941	DT JJ NN	NP-PRD
+0.11764705882352941	DT JJ NN	NP-SBJ
+1.0	DT JJ NNS	NP
+0.6666666666666666	DT JJR NN	NP
+0.3333333333333333	DT JJR NN	NP-PRD
+1.0	DT JJS NN	NP
+0.5	DT JJS NNS	NP
+0.5	DT JJS NNS	NP-SBJ
+1.0	DT JJS	NP
+1.0	DT JJ VBN NNS	NP
+1.0	DT NAC-LOC NN NN	NP
+1.0	DT NAC NNP	NP
+0.75	DT NN NN	NP
+0.25	DT NN NN	NP-SBJ
+1.0	DT NN NNS	NP
+0.8181818181818182	DT NN	NP
+0.022727272727272728	DT NN	NP-ADV
+0.022727272727272728	DT NN	NP-LGS
+0.045454545454545456	DT NN	NP-PRD
+0.06818181818181818	DT NN	NP-SBJ
+0.022727272727272728	DT NN	NP-SBJ-8
+1.0	DT NNP NN	NP-SBJ
+0.5	DT NNP NNP NNP	NP
+0.5	DT NNP NNP NNP	NP-SBJ
+1.0	DT NNP NNS CC NN NN	NP
+1.0	DT NNP NNS	NP
+0.7142857142857143	DT NNP	NP-SBJ
+0.14285714285714285	DT NNP	NP-SBJ-1
+0.14285714285714285	DT NNP	NP-SBJ-2
+1.0	DT NN POS	NP
+1.0	DT NNP VBG NN	NP
+1.0	DT NNS CC NN NN	NP
+1.0	DT NNS CC NNS	NP
+1.0	DT NN S	NP
+0.6666666666666666	DT NNS	NP
+0.3333333333333333	DT NNS	NP-SBJ
+1.0	DT NNS POS	NP
+1.0	DT NN VBG NN	NP-SBJ
+1.0	DT	NP
+1.0	DT NP CC NP	NP-SBJ
+0.5	DT	NP-LGS
+0.5	DT	NP-SBJ
+1.0	DT VBN NN	NP
+1.0	dumped	VBD
+1.0	during	IN
+1.0	dust	NN
+1.0	dusty	JJ
+1.0	Dutch	NNP
+1.0	earlier	JJR
+1.0	earliest	JJS
+1.0	early	JJ
+1.0	eased	VBD
+1.0	easily	RB
+1.0	editor	NN
+1.0	elected	VBN
+1.0	Elsevier	NNP
+1.0	employs	VBZ
+1.0	ended	VBD
+1.0	Energy	NNP
+1.0	energy-services	JJ
+1.0	engineering	NN
+1.0	England	NNP
+1.0	ensnarled	VBN
+1.0	enters	VBZ
+1.0	Environmental	NNP
+1.0	even	RB
+1.0	events	NNS
+1.0	example	NN
+1.0	executive	NN
+1.0	exhaust	NN
+1.0	EX	NP-SBJ
+1.0	expected	VBN
+1.0	expects	VBZ
+1.0	expect	VBP
+1.0	explained	VBD
+1.0	exposed	VBN
+1.0	exposures	NNS
+1.0	factory	NN
+1.0	fans	NNS
+1.0	far	RB
+1.0	federal	JJ
+1.0	fees	NNS
+1.0	fell	VBD
+1.0	few	JJ
+1.0	fiber	NN
+1.0	fibers	NNS
+1.0	Fields	NNP
+1.0	fight	NN
+1.0	filter	NN
+1.0	filters	NNS
+1.0	Financial	NNP
+1.0	finding	NN
+1.0	findings	NNS
+1.0	Finmeccanica	NNP
+1.0	First	NNP
+1.0	five	CD
+1.0	force	NN
+1.0	for	IN
+1.0	former	JJ
+1.0	formerly	RB
+1.0	form	NN
+1.0	forum	NN
+1.0	found	VBN
+1.0	Four	CD
+1.0	fraction	NN
+1.0	from	IN
+1.0	From	IN
+1.0	fund	NN
+1.0	Fund	NNP
+1.0	funds	NNS
+1.0	further	JJ
+1.0	general	JJ
+1.0	Gold	NNP
+1.0	go	VB
+1.0	government	NN
+1.0	Grace	NNP
+1.0	gradual	JJ
+1.0	grew	VBD
+1.0	Groton	NNP
+1.0	group	NN
+1.0	had	VBD
+1.0	Harvard	NNP
+1.0	has	VBZ
+0.2	have	VB
+0.8	have	VBP
+1.0	having	VBG
+1.0	heard	VBD
+1.0	heavily	RB
+1.0	he	PRP
+1.0	He	PRP
+1.0	higher	JJR
+1.0	highest	JJS
+1.0	high	JJ
+1.0	holding	VBG
+1.0	holds	VBZ
+1.0	Hollingsworth	NNP
+1.0	House	NNP
+1.0	huge	JJ
+1.0	human	JJ
+1.0	hung	VBD
+1.0	IBC	NNP
+1.0	*ICH*-1	-NONE-
+1.0	*ICH*-2	-NONE-
+1.0	if	IN
+1.0	imported	VBN
+1.0	imposed	VBD
+1.0	IN ADVP-TMP	PP-CLR
+1.0	IN $ CD CD	QP
+1.0	IN CD	QP
+1.0	including	VBG
+1.0	Inc.	NNP
+1.0	indicate	VB
+1.0	indicator	NN
+1.0	industrialized	VBN
+1.0	industrial	JJ
+1.0	industry	NN
+1.0	information	NN
+1.0	in	IN
+1.0	In	IN
+1.0	IN IN NP	PP-PRP
+1.0	IN NP ADVP-TMP	PP
+1.0	IN NP-LGS	PP
+0.9866666666666667	IN NP	PP
+0.013333333333333334	IN NP	PP-1
+1.0	IN `` NP ''	PP-CLR
+0.09230769230769231	IN NP	PP-CLR
+0.16923076923076924	IN NP	PP-DIR
+0.03076923076923077	IN NP	PP-EXT
+0.3230769230769231	IN NP	PP-LOC
+0.06153846153846154	IN NP	PP-LOC-CLR
+0.015384615384615385	IN NP	PP-LOC-PRD
+0.015384615384615385	IN NP	PP-PRD
+0.2923076923076923	IN NP	PP-TMP
+1.0	in	RP
+1.0	IN SBAR	PP
+0.5	IN S-NOM	PP
+0.25	IN S-NOM	PP-CLR
+0.25	IN S-NOM	PP-LOC
+0.4444444444444444	IN S	SBAR
+0.1111111111111111	IN S	SBAR-ADV
+0.2777777777777778	IN S	SBAR-PRP
+0.16666666666666666	IN S	SBAR-TMP
+1.0	Institute	NNP
+1.0	institutions	NNS
+1.0	interest	NN
+1.0	interests	NNS
+1.0	International	NNP
+1.0	into	IN
+1.0	investments	NNS
+1.0	investors	NNS
+1.0	invests	VBZ
+1.0	issue	VB
+1.0	is	VBZ
+1.0	Italian	JJ
+1.0	it	PRP
+1.0	It	PRP
+1.0	its	PRP$
+1.0	James	NNP
+1.0	Japanese	JJ
+1.0	JJ	ADJP-PRD
+1.0	JJ IN CD NNS	QP
+1.0	JJ IN NP	PP
+1.0	JJ JJ	ADJP
+1.0	JJ JJ NNS NNS	NP
+1.0	JJ JJ NNS	NP
+1.0	JJ NN NN NNP NNP NNP	NP
+1.0	JJ NN NN	NP
+1.0	JJ NN NNS	NP
+1.0	JJ NN	NP
+1.0	JJ NNP NNS	NP
+1.0	JJ NNP	NP
+0.9090909090909091	JJ NNS	NP
+0.09090909090909091	JJ NNS	NP-SBJ-2
+0.5	JJ PP	ADJP
+0.5	JJ PP	ADJP-PRD
+0.3333333333333333	JJR NNS	NP
+0.3333333333333333	JJR NNS	NP-SBJ-1
+0.3333333333333333	JJR NNS	NP-SBJ-9
+1.0	JJ S	ADJP
+1.0	JJS NNS	NP
+1.0	JJ VBN NNS	NP
+1.0	J.	NNP
+1.0	join	VB
+1.0	Journal	NNP
+1.0	J.P.	NNP
+1.0	July	NNP
+1.0	Kent	NNP
+1.0	kind	NN
+1.0	large	JJ
+1.0	later	JJ
+1.0	latest	JJS
+1.0	led	VBD
+1.0	Legislation	NN
+1.0	lengthened	VBD
+1.0	lifted	VBN
+1.0	lift	VB
+1.0	likely	JJ
+1.0	Loews	NNP
+1.0	longer	JJR
+1.0	Longer	JJR
+1.0	longest	JJS
+0.2	Lorillard	NN
+0.8	Lorillard	NNP
+1.0	Ltd.	NNP
+1.0	lung	NN
+1.0	lungs	NNS
+1.0	made	VBD
+1.0	maker	NN
+1.0	makes	VBZ
+1.0	make	VB
+1.0	making	VBG
+1.0	malignant	JJ
+1.0	Malizia	NNP
+1.0	management	NN
+1.0	manager	NN
+1.0	managers	NNS
+1.0	marketing	NN
+1.0	market	NN
+1.0	Mass.	NNP
+1.0	material	NN
+1.0	maturities	NNS
+1.0	maturity	NN
+1.0	may	MD
+1.0	Mazda	NNP
+1.0	McDermott	NNP
+1.0	MD VP	VP
+1.0	mechanical	JJ
+1.0	mechanically	RB
+1.0	medical	JJ
+1.0	Medicine	NNP
+1.0	men	NNS
+1.0	mesothelioma	NN
+1.0	Micronite	NN
+1.0	midnight	NN
+1.0	million	CD
+1.0	mixed	VBD
+1.0	modest	JJ
+1.0	Monday	NNP
+1.0	money-fund	NN
+1.0	money-market	JJ
+1.0	money	NN
+1.0	Money	NNP
+1.0	morbidity	NN
+0.2	more	JJ
+0.8	more	RBR
+1.0	More	RBR
+1.0	Mossman	NNP
+1.0	most	JJS
+1.0	Motor	NNP
+1.0	Mr.	NNP
+1.0	mutual	JJ
+1.0	named	VBN
+1.0	National	NNP
+1.0	nations	NNS
+1.0	needle-like	JJ
+1.0	Negus	NNP
+1.0	Neither	DT
+1.0	Nevertheless	RB
+1.0	new	JJ
+0.5	New	JJ
+0.5	New	NNP
+1.0	next	JJ
+1.0	%	NN
+1.0	NN CC NN NNS	NP
+1.0	NN NN NNS	NP
+1.0	NN NN	NP
+0.36363636363636365	NN NNS	NP
+0.6363636363636364	NN NNS	NP-SBJ
+0.8709677419354839	NN	NP
+0.06451612903225806	NN	NP-SBJ
+0.03225806451612903	NN	NP-SBJ-1
+0.03225806451612903	NN	NP-TMP
+1.0	NNP CC NNP NNP	NP-LGS
+1.0	NNP CC NNP	NP
+0.5	NNP CD	NP
+0.5	NNP CD	NP-TMP
+1.0	NNP NN NNS	NP
+1.0	NNP NNP CC NNP	NP
+1.0	NNP NNP , NNP ,	NAC-LOC
+0.5	NNP NNP NNP NNP	NP
+0.5	NNP NNP NNP NNP	NP-SBJ
+1.0	NNP NNP . NNP	NP
+0.7777777777777778	NNP NNP NNP	NP
+0.1111111111111111	NNP NNP NNP	NP-SBJ
+0.1111111111111111	NNP NNP NNP	NP-SBJ-12
+0.625	NNP NNP	NP
+0.375	NNP NNP	NP-SBJ
+1.0	NNP NNP POS	NP
+1.0	NNP NNS NNS	NP
+1.0	NNP NNS	NP
+0.6	NNP	NP
+0.26666666666666666	NNP	NP-SBJ
+0.13333333333333333	NNP	NP-TMP
+1.0	NN POS	NP
+1.0	NNP POS	NP
+1.0	NNP PP	NAC
+1.0	NN S	NP
+0.7142857142857143	NNS	NP
+0.25	NNS	NP-SBJ
+0.03571428571428571	NNS	NP-SBJ-1
+1.0	NNS SBAR	NP
+1.0	no	DT
+1.0	*?*	-NONE-
+1.0	*	-NONE-
+0.013513513513513514	-NONE-	ADVP-LOC
+0.2702702702702703	-NONE-	NP
+0.4594594594594595	-NONE-	NP-SBJ
+0.013513513513513514	-NONE-	NP-SBJ-4
+0.013513513513513514	-NONE-	NP-SBJ-5
+0.02702702702702703	-NONE-	PP
+0.1891891891891892	-NONE-	S
+0.013513513513513514	-NONE-	SBAR
+1.0	-NONE- S	SBAR
+1.0	-NONE-	WHNP-1
+1.0	nonexecutive	JJ
+1.0	nor	CC
+1.0	Nov.	NNP
+1.0	now	RB
+1.0	NP ADJP	NP
+1.0	NP , ADJP ,	NP-SBJ
+1.0	NP , CC NP	NP
+1.0	NP CC NP	NP
+1.0	NP CC NP PP-1	NP-PRD
+1.0	NP CC SBAR	UCP
+1.0	NP CD NN NNS	NP
+0.25	NP IN	ADVP
+0.75	NP IN	ADVP-TMP
+0.75	NP JJ	ADJP
+0.25	NP JJ	ADVP-TMP
+1.0	NP JJR	ADVP-TMP
+1.0	NP NN NN	NP-SBJ
+1.0	NP NN	NP
+1.0	NP NNP NN	NP
+0.6666666666666666	NP NNP NNP NNP	NP
+0.3333333333333333	NP NNP NNP NNP	NP-LGS
+1.0	NP NNP NNS , NN , NNS CC NN NNS	NP
+1.0	NP NNS	NP
+1.0	NP NP-ADV	NP
+1.0	NP , NP CC NP	NP
+1.0	NP , NP ,	NP
+1.0	NP , NP	NP
+1.0	NP , NP ,	NP-SBJ
+1.0	NP , NP	NP-SBJ
+1.0	NP NP	NP-SBJ
+1.0	NP , NP ,	NP-SBJ-10
+1.0	NP , NP , SBAR	NP
+1.0	NP NP-TMP	NP
+1.0	NP PP-DIR	NP
+0.875	NP PP-LOC	NP
+0.125	NP PP-LOC	NP-SBJ-7
+0.96875	NP PP	NP
+0.03125	NP PP	NP-ADV
+1.0	NP PP , NP ,	NP
+0.38095238095238093	NP PP	NP-PRD
+0.47619047619047616	NP PP	NP-SBJ
+0.047619047619047616	NP PP	NP-SBJ-1
+0.047619047619047616	NP PP	NP-SBJ-3
+0.047619047619047616	NP PP	NP-SBJ-6
+0.6666666666666666	NP PP PP-LOC	NP
+0.3333333333333333	NP PP PP-LOC	NP-SBJ-1
+1.0	NP PP PP	NP
+1.0	NP PP PP PP	NP
+1.0	NP PP , RRC ,	NP-SBJ
+1.0	NP PP S-2	NP
+1.0	`` NP PP '' SBAR	NP
+0.75	NP PP SBAR	NP
+0.25	NP PP SBAR	NP-SBJ
+1.0	NP PP-TMP	NP
+1.0	: NP	PRN
+1.0	NP PRN	NP
+0.75	NP RRC	NP
+0.25	NP RRC	NP-SBJ
+1.0	NP , SBAR	NP
+0.8571428571428571	NP SBAR	NP
+0.14285714285714285	NP SBAR	NP-PRD
+1.0	NP , SBAR ,	NP-SBJ
+1.0	NP SBAR	NP-SBJ-11
+1.0	NP-SBJ-10 VP .	S
+1.0	NP-SBJ-11 VP .	S
+1.0	NP-SBJ-12 VP .	S
+1.0	NP-SBJ-1 VP .	S
+0.6	NP-SBJ-1 VP	S
+0.4	NP-SBJ-1 VP	S-TPC-2
+1.0	NP-SBJ-2 VP	S
+1.0	NP-SBJ-4 VP	S
+1.0	NP-SBJ-5 VP	S
+1.0	NP-SBJ-7 VP .	S
+1.0	NP-SBJ-8 VP	S
+1.0	NP-SBJ-9 VP .	S
+1.0	NP-SBJ ADVP VP	S-TPC-1
+1.0	NP-SBJ NP-PRD	S
+1.0	NP-SBJ , PP , VP .	S
+1.0	NP-SBJ VP . ''	S
+1.0	NP-SBJ VP .	S
+0.7903225806451613	NP-SBJ VP	S
+0.016129032258064516	NP-SBJ VP	S-2
+0.03225806451612903	NP-SBJ VP	S-CLR
+0.06451612903225806	NP-SBJ VP	S-NOM
+0.08064516129032258	NP-SBJ VP	S-TPC-1
+0.016129032258064516	NP-SBJ VP	S-TPC-2
+1.0	NP , UCP ,	NP-SBJ-1
+1.0	NP VP	NP
+1.0	NP , VP ,	NP-SBJ
+1.0	n't	RB
+1.0	number	NN
+1.0	N.V.	NNP
+1.0	obligations	NNS
+1.0	obtain	VB
+1.0	of	IN
+1.0	Ohio	NNP
+1.0	old	JJ
+0.5	once	IN
+0.5	once	RB
+1.0	one	CD
+1.0	on	IN
+1.0	only	RB
+1.0	open	JJ
+1.0	Operations	NNP
+1.0	operations	NNS
+1.0	or	CC
+1.0	other	JJ
+1.0	our	PRP$
+1.0	outlawed	VBN
+1.0	over	IN
+1.0	overseas	RB
+1.0	oversee	VB
+1.0	owned	VBN
+1.0	Pacific	NNP
+1.0	paper	NN
+1.0	particularly	RB
+1.0	parts	NNS
+1.0	pathlogy	NN
+1.0	people	NNS
+1.0	percentage	NN
+1.0	period	NN
+1.0	permit	VBP
+1.0	Phillips	NNP
+1.0	Pierre	NNP
+1.0	place	NN
+1.0	plant	NN
+1.0	PLC	NNP
+1.0	point	NN
+1.0	portfolio	NN
+1.0	'	POS
+1.0	position	NN
+1.0	poured	VBD
+1.0	pour	VB
+1.0	PP-DIR PP-DIR	PP-TMP
+1.0	PP-LOC , NP-SBJ VP .	S
+1.0	PP-LOC NP-SBJ VP .	S
+1.0	PP , NP-SBJ-1 VP .	S
+1.0	PP-TMP , NP-SBJ-3 VP	S-TPC-1
+1.0	PP-TMP , NP-SBJ-6 VP .	S
+1.0	PP-TMP , NP-SBJ VP .	S
+1.0	preliminary	JJ
+1.0	president	NN
+1.0	Previously	RB
+1.0	probably	RB
+1.0	problem	NN
+1.0	process	NN
+1.0	products	NNS
+1.0	professor	NN
+1.0	properties	NNS
+1.0	Protection	NNP
+1.0	PRP$ NN NN NNS	NP
+1.0	PRP$ NN NN	NP
+1.0	PRP$ NN	NP
+1.0	PRP$ NNP CC NNP NN	NP-SBJ
+1.0	PRP$ NNP NNP NNP	NP
+1.0	PRP$ NNS	NP
+0.17647058823529413	PRP	NP
+0.7058823529411765	PRP	NP-SBJ
+0.11764705882352941	PRP	NP-SBJ-1
+1.0	publishing	VBG
+1.0	QP DT VBN NN	NP-1
+1.0	QP NN	NP
+1.0	QP NNP NNS	NP
+1.0	QP NNS	NP
+1.0	QP -NONE-	NP
+1.0	questionable	JJ
+1.0	question	NN
+1.0	raise	VB
+1.0	rate	NN
+1.0	rates	NNS
+0.29411764705882354	RB	ADVP
+0.058823529411764705	RB	ADVP-LOC
+0.23529411764705882	RB	ADVP-MNR
+0.4117647058823529	RB	ADVP-TMP
+1.0	RB DT	ADJP
+1.0	RB IN CD	QP
+1.0	RB IN S	SBAR-ADV
+0.3333333333333333	RB JJ	ADJP
+0.6666666666666666	RB JJ	ADJP-PRD
+1.0	RB JJ NNS	NP
+1.0	RB JJR	ADJP
+1.0	RB JJR NNS	NP
+1.0	RB	NP
+1.0	RB PP	ADVP
+1.0	RBR IN CD	QP
+1.0	RBR IN DT	QP
+1.0	RBR JJ NN NNS	NP-SBJ-1
+0.5	RBR RB	ADVP
+0.5	RBR RB	ADVP-MNR
+1.0	RB VBN	ADJP
+1.0	reached	VBD
+1.0	recent	JJ
+1.0	recently	RB
+1.0	recognize	VB
+1.0	regulate	VB
+1.0	regulation	NN
+1.0	regulatory	JJ
+1.0	reinvestment	NN
+1.0	rejected	VBN
+1.0	relatively	RB
+1.0	remaining	VBG
+1.0	replaced	VBN
+0.5	reported	VBD
+0.5	reported	VBN
+1.0	Report	NNP
+1.0	researchers	NNS
+1.0	research	NN
+1.0	resigned	VBD
+1.0	resilient	JJ
+1.0	resources	NNS
+1.0	results	NNS
+1.0	retain	VB
+1.0	're	VBP
+1.0	revenue	NN
+1.0	rises	NNS
+1.0	rising	VBG
+1.0	risk	NN
+1.0	*RNR*-1	-NONE-
+1.0	rose	VBD
+1.0	Royal	NNP
+0.5	RP	ADVP-DIR
+0.5	RP	PRT
+1.0	Rudolph	NNP
+1.0	sacks	NNS
+1.0	said	VBD
+1.0	sale	NN
+1.0	sales	NNS
+1.0	savings	NNS
+1.0	SBAR-ADV , NP-SBJ VP .	S
+1.0	SBAR-TMP , NP-SBJ VP	S-TPC-1
+1.0	S , CC S .	S
+1.0	schools	NNS
+1.0	seats	NNS
+1.0	securities	NNS
+1.0	Senate	NNP
+1.0	senior	JJ
+1.0	service	NN
+1.0	seven	CD
+1.0	seven-day	JJ
+1.0	shareholders	NNS
+1.0	share	NN
+1.0	Shorter	JJR
+1.0	short-term	JJ
+1.0	should	MD
+1.0	show	VBP
+1.0	sign	NN
+1.0	signs	NNS
+1.0	simple	JJ
+1.0	since	IN
+1.0	, SINV ,	PRN
+1.0	six-month	JJ
+1.0	slide	VB
+1.0	slid	VBD
+1.0	smokers	NNS
+1.0	smooth	JJ
+1.0	sold	VBN
+1.0	some	DT
+1.0	sooner	RB
+1.0	S.p	NNP
+1.0	spokeswoman	NN
+1.0	spokewoman	NN
+1.0	's	POS
+1.0	S : S .	S
+1.0	standard	NN
+1.0	state-owned	JJ
+1.0	stopped	VBD
+1.0	story	NN
+1.0	S-TPC-1 , NP-SBJ VP .	S
+1.0	`` S-TPC-1 , '' VP NP-SBJ .	SINV
+1.0	S-TPC-2 , NP-SBJ VP .	S
+1.0	striking	JJ
+1.0	stringently	RB
+1.0	stronger	JJR
+0.5	studied	VBD
+0.5	studied	VBN
+1.0	study	VBP
+1.0	substance	NN
+1.0	succeeds	VBZ
+1.0	such	JJ
+1.0	support	VB
+1.0	surviving	VBG
+1.0	suspended	VBD
+1.0	's	VBZ
+1.0	symptoms	NNS
+1.0	systems	NNS
+1.0	*T*-10	-NONE-
+1.0	*T*-11	-NONE-
+1.0	*T*-1	-NONE-
+1.0	*T*-2	-NONE-
+1.0	*T*-3	-NONE-
+1.0	*T*-4	-NONE-
+1.0	*T*-5	-NONE-
+1.0	*T*-6	-NONE-
+1.0	*T*-7	-NONE-
+1.0	*T*-8	-NONE-
+1.0	*T*-9	-NONE-
+1.0	Talcott	NNP
+1.0	talking	VBG
+1.0	taxable	JJ
+1.0	taxes	NNS
+1.0	team	NN
+1.0	Terrence	NNP
+1.0	than	IN
+0.45454545454545453	that	IN
+0.5454545454545454	that	WDT
+1.0	the	DT
+1.0	The	DT
+1.0	then	RB
+1.0	There	EX
+1.0	these	DT
+1.0	they	PRP
+1.0	this	DT
+1.0	This	DT
+1.0	those	DT
+1.0	though	IN
+1.0	thought	VBN
+1.0	three	CD
+1.0	thrift	NN
+1.0	times	NNS
+1.0	T.	NNP
+1.0	today	NN
+0.25	TO NP	PP
+0.0625	TO NP	PP-CLR
+0.6875	TO NP	PP-DIR
+1.0	took	VBD
+1.0	top	JJ
+1.0	top-yielding	JJ
+1.0	Toronto	NNP
+1.0	total	NN
+1.0	to	TO
+1.0	TO VP	VP
+1.0	tracked	VBN
+1.0	transaction	NN
+1.0	Treasury	NNP
+1.0	trillion	CD
+1.0	Trustco	NNP
+1.0	Tuesday	NNP
+1.0	type	NN
+1.0	Typically	RB
+1.0	under	IN
+1.0	unit	NN
+1.0	University	NNP
+1.0	*U*	-NONE-
+1.0	until	IN
+1.0	Until	IN
+1.0	unusually	RB
+1.0	up	RP
+1.0	used	VBN
+1.0	useful	JJ
+1.0	users	NNS
+1.0	uses	NNS
+1.0	using	VBG
+1.0	U.S.	NNP
+1.0	us	PRP
+1.0	vary	VB
+1.0	VB ADVP-DIR ADVP-TMP SBAR-TMP '' PP-PRP	VP
+1.0	VBD ADJP-PRD SBAR-2	VP
+1.0	VBD ADJP-PRD	VP
+1.0	VBD ADVP-MNR PP-CLR	VP
+1.0	VBD NP-ADV PP-DIR PP-DIR PP-TMP	VP
+1.0	VBD NP ADVP-TMP	VP
+1.0	VBD NP PP-CLR	VP
+1.0	VBD NP PP-DIR	VP
+1.0	VBD NP PP-TMP , ADVP	VP
+1.0	VBD NP-PRD , ADVP	VP
+1.0	VBD NP-PRD	VP
+1.0	VBD NP SBAR-PRP	VP
+1.0	VBD NP-TMP	VP
+1.0	VBD NP	VP
+1.0	VBD PP-CLR	VP
+1.0	VBD PP-DIR PP-DIR	VP
+1.0	VBD PP-EXT PP-DIR PP	VP
+1.0	VBD PP-EXT PP-TMP , PP-DIR	VP
+1.0	VBD PP-LOC-PRD	VP
+1.0	VBD PP-LOC , SBAR-ADV	VP
+1.0	VBD PP-TMP NP-TMP PP-DIR PP-DIR	VP
+1.0	VBD PRT NP	VP
+1.0	VBD SBAR	VP
+1.0	VBD S , PP-LOC	VP
+1.0	VBD , `` S	VP
+1.0	VBD S	VP
+1.0	VBD	VP
+1.0	VBD VP	VP
+1.0	VBG NN NNS	NP
+1.0	VBG NNS	NP
+1.0	VBG NP	PP
+1.0	VBG NP PP-LOC-CLR PP-TMP	VP
+1.0	VBG NP	VP
+1.0	VBG PP-CLR	VP
+1.0	VBG PP	PP
+1.0	VBN : NP-1	VP
+1.0	VBN NP ADVP-LOC	VP
+1.0	VBN NP ADVP-TMP	VP
+1.0	VBN NP PP-CLR ADVP-TMP	VP
+1.0	VBN NP PP-CLR PP-LOC PP-TMP	VP
+1.0	VBN NP PP-CLR	VP
+1.0	VBN NP PP-DIR PP-TMP	VP
+1.0	VBN NP PP-LOC-CLR	VP
+1.0	VBN NP PP-LOC	VP
+1.0	VBN NP PP PP-TMP	VP
+1.0	VBN NP PP	VP
+1.0	VBN NP-PRD PP-TMP	VP
+1.0	VBN NP S-CLR	VP
+1.0	VBN NP	VP
+1.0	VB NP ADVP-MNR	VP
+1.0	VB NP ADVP-TMP	VP
+1.0	VB NP PP-CLR NP-TMP	VP
+1.0	VB NP PP-DIR	VP
+1.0	VB NP PP-TMP	VP
+1.0	VB NP-PRD SBAR-PRP	VP
+1.0	VB NP-PRD	VP
+1.0	VBN PP S	VP
+1.0	VB NP SBAR-PRP	VP
+1.0	VB NP	VP
+1.0	VBN S SBAR-PRP	VP
+1.0	VBN S	VP
+1.0	VBP ADJP-PRD	VP
+1.0	VBP ADVP-DIR	VP
+1.0	VBP ADVP-TMP VP	VP
+1.0	VBP NP ADVP-MNR	VP
+1.0	VBP NP , PP	VP
+1.0	VBP NP SBAR-PRP	VP
+1.0	VBP NP	VP
+1.0	VB PP-CLR	VP
+1.0	VBP PP-LOC	VP
+1.0	VBP PP-PRD	VP
+1.0	VBP PRT ADVP-TMP	VP
+1.0	VB PP-TMP PP-TMP	VP
+1.0	VB PP-TMP SBAR-ADV	VP
+1.0	VB PP-TMP	VP
+1.0	VBP SBAR	VP
+1.0	VBP S	VP
+1.0	VBP UCP	VP
+1.0	VBP VP	VP
+1.0	VB SBAR	VP
+1.0	VB	VP
+1.0	VB VP	VP
+1.0	VBZ ADJP-PRD SBAR-TMP , PP	VP
+1.0	VBZ ADVP-MNR PP-CLR ADVP-LOC	VP
+1.0	VBZ ADVP-TMP VP	VP
+1.0	VBZ NP-PRD PP-LOC ADVP-TMP	VP
+1.0	VBZ NP-PRD PP-LOC	VP
+1.0	VBZ NP-PRD , PP	VP
+1.0	VBZ NP-PRD	VP
+1.0	VBZ NP	VP
+1.0	VBZ PP-TMP	VP
+1.0	VBZ RB NP	VP
+1.0	VBZ RB VP	VP
+1.0	VBZ S	VP
+1.0	VBZ	VP
+1.0	VBZ VP	VP
+1.0	ventilated	VBD
+1.0	Vermont	NNP
+1.0	very	RB
+1.0	vice	NN
+1.0	Vinken	NNP
+1.0	virtually	RB
+1.0	Vitulli	NNP
+1.0	Vose	NNP
+1.0	voted	VBN
+1.0	VP CC VP PP-TMP	VP
+1.0	VP CC VP	VP
+1.0	VP NP-SBJ	SINV
+1.0	VP	RRC
+1.0	VP , SBAR-ADV	VP
+1.0	VP	VP
+1.0	VP , VP CC VP	VP
+1.0	waiving	VBG
+1.0	was	VBD
+1.0	watch	VBP
+0.4444444444444444	WDT	WHNP-1
+0.1111111111111111	WDT	WHNP-10
+0.1111111111111111	WDT	WHNP-2
+0.1111111111111111	WDT	WHNP-7
+0.1111111111111111	WDT	WHNP-8
+0.1111111111111111	WDT	WHNP-9
+1.0	week	NN
+1.0	well	RB
+1.0	We	PRP
+1.0	were	VBD
+1.0	Western	JJ
+1.0	West	NNP
+1.0	WHADVP-1 S	SBAR-2
+1.0	where	WRB
+1.0	whether	IN
+1.0	which	WDT
+1.0	WHNP-10 S	SBAR
+1.0	WHNP-11 S	SBAR
+1.0	WHNP-1 S	SBAR
+1.0	WHNP-2 S	SBAR
+1.0	WHNP-3 S	SBAR
+1.0	WHNP-4 S	SBAR
+1.0	WHNP-5 S	SBAR
+1.0	WHNP-6 S	SBAR
+1.0	WHNP-7 S	SBAR
+1.0	WHNP-8 S	SBAR
+1.0	WHNP-9 S	SBAR-ADV
+1.0	who	WP
+1.0	Wickliffe	NNP
+1.0	Wilcox	NNP
+1.0	will	MD
+1.0	with	IN
+1.0	worked	VBD
+1.0	workers	NNS
+1.0	Workers	NNS
+1.0	work	NN
+1.0	World-Wide	NNP
+0.2	WP	WHNP-11
+0.2	WP	WHNP-3
+0.2	WP	WHNP-4
+0.2	WP	WHNP-5
+0.2	WP	WHNP-6
+1.0	WRB	WHADVP-1
+1.0	W.R.	NNP
+1.0	year-end	NN
+1.0	year	NN
+1.0	years	NNS
+1.0	yielding	VBG
+1.0	yield	NN
+1.0	yields	NNS
+1.0	Yields	NNS
+1.0	York-based	JJ
+1.0	you	PRP

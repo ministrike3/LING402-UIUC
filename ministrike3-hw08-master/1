@@ -1,0 +1,44 @@
+1.0	,	,
+1.0	.	.
+1.0	29	CD
+1.0	61	CD
+1.0	a	DT
+1.0	as	IN
+1.0	board	NN
+1.0	CD NNS	NP
+1.0	chairman	NN
+1.0	director	NN
+1.0	DT JJ NN	NP
+1.0	DT NN	NP
+1.0	DT NNP VBG NN	NP
+1.0	Dutch	NNP
+1.0	Elsevier	NNP
+1.0	group	NN
+0.5	IN NP	PP
+0.5	IN NP	PP-CLR
+1.0	is	VBZ
+1.0	join	VB
+1.0	MD VP	VP
+1.0	Mr.	NNP
+1.0	NN	NP
+1.0	NNP CD	NP-TMP
+0.6666666666666666	NNP NNP	NP
+0.3333333333333333	NNP NNP	NP-SBJ
+1.0	nonexecutive	JJ
+1.0	Nov.	NNP
+1.0	NP , ADJP ,	NP-SBJ
+1.0	NP JJ	ADJP
+1.0	NP , NP	NP
+1.0	NP PP	NP-PRD
+1.0	NP-SBJ VP .	S
+1.0	N.V.	NNP
+1.0	of	IN
+1.0	old	JJ
+1.0	Pierre	NNP
+1.0	publishing	VBG
+1.0	the	DT
+1.0	VB NP PP-CLR NP-TMP	VP
+1.0	VBZ NP-PRD	VP
+1.0	Vinken	NNP
+1.0	will	MD
+1.0	years	NNS
